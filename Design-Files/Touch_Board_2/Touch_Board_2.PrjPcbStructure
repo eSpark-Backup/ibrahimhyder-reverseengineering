@@ -1,4 +1,3 @@
 Record=TopLevelDocument|FileName=Top_Sheet.SchDoc
 Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_LED_Section|SchDesignator=U_LED_Section|FileName=LED_Section.SchDoc|SymbolType=Normal|RawFileName=LED_Section.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_Power_Section|SchDesignator=U_Power_Section|FileName=Power_Section.SchDoc|SymbolType=Normal|RawFileName=Power_Section.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Top_Sheet.SchDoc|Designator=U_Touch_Secsor_Section|SchDesignator=U_Touch_Secsor_Section|FileName=Touch_Secsor_Section.SchDoc|SymbolType=Normal|RawFileName=Touch_Secsor_Section.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
