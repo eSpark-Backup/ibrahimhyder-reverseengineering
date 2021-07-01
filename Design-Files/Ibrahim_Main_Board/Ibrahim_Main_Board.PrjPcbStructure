@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=Connector_Section.SchDoc
+Record=TopLevelDocument|FileName=Power_Section.SchDoc
+Record=SheetSymbol|SourceDocument=Power_Section.SchDoc|Designator=U_LED_Power_Sheet|SchDesignator=U_LED_Power_Sheet|FileName=LED_Power_Sheet.SchDoc|SymbolType=Normal|RawFileName=LED_Power_Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Power_Section.SchDoc|Designator=U_MCU_Power_Sheet|SchDesignator=U_MCU_Power_Sheet|FileName=MCU_Power_Sheet.SchDoc|SymbolType=Normal|RawFileName=MCU_Power_Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
