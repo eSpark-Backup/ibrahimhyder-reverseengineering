@@ -1,0 +1,150 @@
+Removed Pin From Net: NetName=NetLED25_1 Pin=LED25-1
+Removed Pin From Net: NetName=NetLED25_2 Pin=LED25-2
+Removed Pin From Net: NetName=NetLED25_1 Pin=LED26-2
+Removed Pin From Net: NetName=NetLED27_1 Pin=LED27-1
+Removed Pin From Net: NetName=NetLED27_2 Pin=LED27-2
+Removed Pin From Net: NetName=NetLED27_1 Pin=LED28-2
+Removed Pin From Net: NetName=NetLED25_2 Pin=R15-1
+Removed Pin From Net: NetName=12V Pin=R15-2
+Removed Pin From Net: NetName=NetLED27_2 Pin=R17-1
+Removed Pin From Net: NetName=12V Pin=R17-2
+Change Component Designator: OldDesignator=J6 NewDesignator=J5
+Change Component Designator: OldDesignator=J8 NewDesignator=J7
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED1
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED6
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED5
+Change Component Designator: OldDesignator=LED5 NewDesignator=LED10
+Change Component Designator: OldDesignator=LED6 NewDesignator=LED9
+Change Component Designator: OldDesignator=LED7 NewDesignator=LED14
+Change Component Designator: OldDesignator=LED8 NewDesignator=LED13
+Change Component Designator: OldDesignator=LED9 NewDesignator=LED18
+Change Component Designator: OldDesignator=LED10 NewDesignator=LED17
+Change Component Designator: OldDesignator=LED11 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED12 NewDesignator=LED4
+Change Component Designator: OldDesignator=LED13 NewDesignator=LED7
+Change Component Designator: OldDesignator=LED14 NewDesignator=LED8
+Change Component Designator: OldDesignator=LED15 NewDesignator=LED11
+Change Component Designator: OldDesignator=LED16 NewDesignator=LED12
+Change Component Designator: OldDesignator=LED17 NewDesignator=LED15
+Change Component Designator: OldDesignator=LED18 NewDesignator=LED16
+Change Component Designator: OldDesignator=LED19 NewDesignator=LED21
+Change Component Designator: OldDesignator=LED20 NewDesignator=LED22
+Change Component Designator: OldDesignator=LED21 NewDesignator=LED25
+Change Component Designator: OldDesignator=LED22 NewDesignator=LED26
+Change Component Designator: OldDesignator=LED23 NewDesignator=LED29
+Change Component Designator: OldDesignator=LED24 NewDesignator=LED30
+Change Component Designator: OldDesignator=LED26 NewDesignator=LED34
+Change Component Designator: OldDesignator=LED28 NewDesignator=LED36
+Change Component Designator: OldDesignator=LED29 NewDesignator=LED19
+Change Component Designator: OldDesignator=LED30 NewDesignator=LED20
+Change Component Designator: OldDesignator=LED31 NewDesignator=LED23
+Change Component Designator: OldDesignator=LED32 NewDesignator=LED24
+Change Component Designator: OldDesignator=LED33 NewDesignator=LED27
+Change Component Designator: OldDesignator=LED34 NewDesignator=LED28
+Change Component Designator: OldDesignator=LED35 NewDesignator=LED31
+Change Component Designator: OldDesignator=LED36 NewDesignator=LED32
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R12
+Change Component Designator: OldDesignator=R16 NewDesignator=R14
+Change Component Designator: OldDesignator=R18 NewDesignator=R16
+Added Component: Designator=J6(SMD PAD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J8(SMD PAD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=LED33(NCD1206Y1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Dominant Wavelength / Coordinate rank"; Value = "589nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity (IF=20mA)"; Value = "85~180mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Foshan NationStar Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Added Component: Designator=LED35(NCD1206Y1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Dominant Wavelength / Coordinate rank"; Value = "589nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity (IF=20mA)"; Value = "85~180mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Foshan NationStar Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.yageo.com/documents/recent/PYu-RT_1-to-0.01_RoHS_L_8.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RT_1-to-0.01_RoHS_L_8.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.024inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0805FRE075R1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.16000, 10=0.09100, 50=0.09100, 100=0.03100, 1000=0.02200, 10000=0.01400 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "5.1R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1522"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RT0805FRE075R1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "50ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=12V Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=NetLED25_1 Pin=LED33-1
+Added Pin To Net: NetName=12V Pin=LED33-2
+Added Pin To Net: NetName=NetLED25_2 Pin=LED34-2
+Added Pin To Net: NetName=NetLED27_1 Pin=LED35-1
+Added Pin To Net: NetName=12V Pin=LED35-2
+Added Pin To Net: NetName=NetLED27_2 Pin=LED36-2
+Added Pin To Net: NetName=NetLED25_2 Pin=R17-1
+Added Pin To Net: NetName=NetLED25_1 Pin=R17-2
+Added Pin To Net: NetName=NetLED27_2 Pin=R18-1
+Added Pin To Net: NetName=NetLED27_1 Pin=R18-2
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=NetLED1_2
+Change Net Name : Old Net Name=NetLED3_2 New Net Name=NetLED5_1
+Change Net Name : Old Net Name=NetLED4_2 New Net Name=NetLED5_2
+Change Net Name : Old Net Name=NetLED5_2 New Net Name=NetLED9_1
+Change Net Name : Old Net Name=NetLED6_2 New Net Name=NetLED9_2
+Change Net Name : Old Net Name=NetLED7_2 New Net Name=NetLED14_2
+Change Net Name : Old Net Name=NetLED8_1 New Net Name=NetLED13_1
+Change Net Name : Old Net Name=NetLED9_2 New Net Name=NetLED18_2
+Change Net Name : Old Net Name=NetLED10_1 New Net Name=NetLED17_1
+Change Net Name : Old Net Name=NetLED11_1 New Net Name=NetLED3_1
+Change Net Name : Old Net Name=NetLED11_2 New Net Name=NetLED3_2
+Change Net Name : Old Net Name=NetLED13_1 New Net Name=NetLED7_1
+Change Net Name : Old Net Name=NetLED13_2 New Net Name=NetLED7_2
+Change Net Name : Old Net Name=NetLED15_1 New Net Name=NetLED11_1
+Change Net Name : Old Net Name=NetLED15_2 New Net Name=NetLED11_2
+Change Net Name : Old Net Name=NetLED17_1 New Net Name=NetLED15_1
+Change Net Name : Old Net Name=NetLED17_2 New Net Name=NetLED15_2
+Change Net Name : Old Net Name=NetLED19_1 New Net Name=NetLED21_1
+Change Net Name : Old Net Name=NetLED19_2 New Net Name=NetLED21_2
+Change Net Name : Old Net Name=NetLED21_1 New Net Name=NetLED25_1
+Change Net Name : Old Net Name=NetLED21_2 New Net Name=NetLED25_2
+Change Net Name : Old Net Name=NetLED23_1 New Net Name=NetLED29_1
+Change Net Name : Old Net Name=NetLED23_2 New Net Name=NetLED29_2
+Change Net Name : Old Net Name=NetLED25_1 New Net Name=NetLED33_1
+Change Net Name : Old Net Name=NetLED25_2 New Net Name=NetLED34_2
+Change Net Name : Old Net Name=NetLED27_1 New Net Name=NetLED35_1
+Change Net Name : Old Net Name=NetLED27_2 New Net Name=NetLED36_2
+Change Net Name : Old Net Name=NetLED29_1 New Net Name=NetLED19_1
+Change Net Name : Old Net Name=NetLED29_2 New Net Name=NetLED19_2
+Change Net Name : Old Net Name=NetLED31_1 New Net Name=NetLED23_1
+Change Net Name : Old Net Name=NetLED31_2 New Net Name=NetLED23_2
+Change Net Name : Old Net Name=NetLED33_1 New Net Name=NetLED27_1
+Change Net Name : Old Net Name=NetLED33_2 New Net Name=NetLED27_2
+Change Net Name : Old Net Name=NetLED35_1 New Net Name=NetLED31_1
+Change Net Name : Old Net Name=NetLED35_2 New Net Name=NetLED31_2
+Added Member To Class: ClassName=LED_Strips_Section Member=Component J6 SMD PADS
+Added Member To Class: ClassName=LED_Strips_Section Member=Component J8 SMD PADS

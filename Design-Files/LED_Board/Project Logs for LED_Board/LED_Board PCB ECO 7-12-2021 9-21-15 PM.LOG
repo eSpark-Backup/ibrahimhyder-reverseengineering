@@ -1,0 +1,11 @@
+Added Component: Designator=LED10(NCD1206Y1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Dominant Wavelength / Coordinate rank"; Value = "589nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity (IF=20mA)"; Value = "85~180mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Foshan NationStar Optoelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED10_1 Pin=LED10-1
+Added Pin To Net: NetName=12V Pin=LED10-2
+Added Member To Class: ClassName=LED_Strips_Section Member=Component LED9 NCD1206Y1
+Added Member To Class: ClassName=LED_Strips_Section Member=Component LED10 NCD1206Y1
