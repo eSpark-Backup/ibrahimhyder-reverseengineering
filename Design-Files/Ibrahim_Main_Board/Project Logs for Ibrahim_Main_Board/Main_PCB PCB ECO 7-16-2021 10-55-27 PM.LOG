@@ -1,0 +1,28 @@
+Change Component Description : Designator=C27 Old Description=100uF ±20% 10V 5mm 5.4mm 2000hrs 105? -45?~+105? SMD,5x5.4mm Aluminum Electrolytic Capacitors - SMD RoHS New Description= 
+100uF ±20% 10V 5mm 5.4mm 2000hrs 105? -45?~+105? SMD,5x5.4mm Aluminum Electrolytic Capacitors - SMD RoHS
+Change Component Description : Designator=C38 Old Description=100uF ±20% 10V 5mm 5.4mm 2000hrs 105? -45?~+105? SMD,5x5.4mm Aluminum Electrolytic Capacitors - SMD RoHS New Description= 
+100uF ±20% 10V 5mm 5.4mm 2000hrs 105? -45?~+105? SMD,5x5.4mm Aluminum Electrolytic Capacitors - SMD RoHS
+Change Component Description : Designator=C8 Old Description=220uF 16V 6.3mm 7.7mm 2000hrs 105? -55?~+105? SMD,6.3x7.7mm Aluminum Electrolytic Capacitors - SMD RoHS New Description=220uF 16V 6.3mm 7.7mm 2000hrs 105? -55?~+105? SMD,6.3x7.7mm Aluminum Electrolytic Capacitors - SMD RoHS
+
+
+Change Component Description : Designator=U5 Old Description=Class D, Class AB 1-Channel (Mono) 11W x 1 @ 4O, 9W x 1 @ 4O 3V ~ 9V SOP-8_EP_150mil Audio Power OpAmps RoHS New Description= 
+Class D, Class AB 1-Channel (Mono) 11W x 1 @ 4O, 9W x 1 @ 4O 3V ~ 9V SOP-8_EP_150mil Audio Power OpAmps RoHS
+Added Component: Designator=X1(7I24000F20UCG)
+Add component (AddParameter): Name = "Crystal Type"; Value = "Passive SMD Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = " 40O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "24MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Tolerance"; Value = "±20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SJK(SHENZHEN CRYSTAL TECH)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40?~+85?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-5032_4P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=XI Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=XO Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Member To Class: ClassName=U_MCU_Section Member=Component X1 24MHz
+Added Room: Name=U_Amplifier_Section
+Added Room: Name=U_Connector_Section
+Added Room: Name=U_LED_Power_Sheet
+Added Room: Name=U_MCU_Power_Sheet
+Added Room: Name=U_MCU_Section
