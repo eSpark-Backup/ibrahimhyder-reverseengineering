@@ -88,6 +88,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GYYPPOML
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for LED_square_2\Design Rule Check - Square_2.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
