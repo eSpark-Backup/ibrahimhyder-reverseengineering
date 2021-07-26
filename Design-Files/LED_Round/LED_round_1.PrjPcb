@@ -88,6 +88,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RATGLHKW
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for LED_round_1\Design Rule Check - Round_1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
