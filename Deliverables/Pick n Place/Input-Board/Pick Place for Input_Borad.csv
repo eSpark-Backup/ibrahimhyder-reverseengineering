@@ -1,0 +1,16 @@
+Altium Designer Pick and Place Locations
+C:\Users\Abc\Desktop\Ibrahim\IbrahimHyder-ReverseEngineering-Eval-Branch\Design-Files\Input_Board\Project Outputs for Input_Borad\Pick Place for Input_Borad.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/07/21
+Time:       21:56
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"J3","S2B-PH-K-S(LF)(SN)","TopLayer","S2B-PH-K-S(LF)(SN)","20,2110mm","9,9248mm","180","Conn Shrouded Header (4 Sides) HDR 2 POS 2mm Solder RA Thru-Hole Box","21,2110mm","9,9248mm","21,2110mm","9,9248mm"
+"J2","DC-005-5A-2.5-SMT","TopLayer","DC-005-5A-2.5-SMT","12,0162mm","1,6210mm","90","DC Power Receptacle Jack 2.5A 2.5mm 6.5mm SMD Power Connectors RoHS","12,0162mm","-1,4290mm","6,3162mm","4,6710mm"
+"J1","S2B-PH-K-S(LF)(SN)","TopLayer","S2B-PH-K-S(LF)(SN)","3,9230mm","9,9248mm","180","Conn Shrouded Header (4 Sides) HDR 2 POS 2mm Solder RA Thru-Hole Box","4,9230mm","9,9248mm","4,9230mm","9,9248mm"

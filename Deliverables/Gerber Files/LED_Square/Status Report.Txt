@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LED_Square.PrjPcb]
+   Generated File[LED_Square.TXT]
+   Generated File[LED_Square.LDP]
+   Generated File[LED_Square.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:38:30 PM On 7/28/2021

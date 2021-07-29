@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Touch_Board_LD.PrjPcb]
+   Generated File[Touch_Board_LD.TXT]
+   Generated File[Touch_Board_LD.LDP]
+   Generated File[Touch_Board_LD.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:23:22 PM On 7/28/2021

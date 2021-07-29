@@ -1,0 +1,47 @@
+Altium Designer Pick and Place Locations
+C:\Users\Abc\Desktop\Ibrahim\IbrahimHyder-ReverseEngineering-Eval-Branch\Design-Files\Touch_Board_LD\Project Outputs for Touch_Board_LD\Pick Place for Touch_Board_LD.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/07/21
+Time:       21:22
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment         Layer       Footprint          Center-X(mm) Center-Y(mm) Rotation Description                      Ref-X(mm)  Ref-Y(mm) Pad-X(mm)  Pad-Y(mm) 
+U8         XC6206P332MR-G  BottomLayer sot-23             113,5634mm   5,2324mm     180      "IC REG LINEAR 3.3V 200MA SOT23" 113,5634mm 5,2324mm  114,5134mm 4,2324mm  
+U1         ""              BottomLayer 20-QFN             104,5654mm   6,0184mm     180      "IC MCU 8BIT 16KB FLASH 20VQFN"  104,5654mm 6,0184mm  106,0654mm 6,8184mm  
+SB2        "Solder Bridge" TopLayer    Solder_Bridge      127,7112mm   6,7310mm     180      "Solder Bridge ON"               127,7112mm 6,7310mm  128,4732mm 6,7310mm  
+SB1        "Solder Bridge" TopLayer    Solder_Bridge      127,7112mm   5,2070mm     180      "Solder Bridge ON"               127,7112mm 5,2070mm  128,4732mm 5,2070mm  
+RL1        1K              BottomLayer RES_0805           109,3470mm   5,9690mm     180      "RES SMD 1K OHM 5% 1/8W 0805"    109,3470mm 5,9690mm  110,3630mm 5,9690mm  
+R8         1K              BottomLayer RES_0805           94,6912mm    11,4300mm    90       "RES SMD 1K OHM 5% 1/8W 0805"    94,6912mm  11,4300mm 94,6912mm  10,4140mm 
+R7         1K              BottomLayer RES_0805           99,0092mm    11,4300mm    90       "RES SMD 1K OHM 5% 1/8W 0805"    99,0092mm  11,4300mm 99,0092mm  10,4140mm 
+R6         1K              BottomLayer RES_0805           103,3272mm   11,4300mm    90       "RES SMD 1K OHM 5% 1/8W 0805"    103,3272mm 11,4300mm 103,3272mm 10,4140mm 
+R5         1K              BottomLayer RES_0805           107,6452mm   11,4300mm    90       "RES SMD 1K OHM 5% 1/8W 0805"    107,6452mm 11,4300mm 107,6452mm 10,4140mm 
+R4         1K              BottomLayer RES_0805           111,9632mm   11,4300mm    90       "RES SMD 1K OHM 5% 1/8W 0805"    111,9632mm 11,4300mm 111,9632mm 10,4140mm 
+R3x        1K              BottomLayer RES_0805           116,2812mm   11,4300mm    90       "RES SMD 1K OHM 5% 1/8W 0805"    116,2812mm 11,4300mm 116,2812mm 10,4140mm 
+R3         5.6K            BottomLayer RES_0805           99,8092mm    2,9718mm     270      "RES SMD 5.6K Ohm 1% 0805"       99,8092mm  2,9718mm  99,8092mm  3,9878mm  
+R2         5.6K            BottomLayer RES_0805           101,4222mm   2,9718mm     270      "RES SMD 5.6K Ohm 1% 0805"       101,4222mm 2,9718mm  101,4222mm 3,9878mm  
+R1         5.6K            BottomLayer RES_0805           83,1342mm    9,1440mm     180      "RES SMD 5.6K Ohm 1% 0805"       83,1342mm  9,1440mm  84,1502mm  9,1440mm  
+P8         Programming     BottomLayer HDR1X3             79,8322mm    10,4140mm    270      "CONN HEADER VERT 3POS 2.54MM"   79,8322mm  11,6840mm 79,8322mm  11,6840mm 
+P7         Testing         BottomLayer HDR1X3             82,3722mm    6,6040mm     180      "CONN HEADER VERT 3POS 2.54MM"   84,9122mm  6,6040mm  84,9122mm  6,6040mm  
+P6         "Test Point"    TopLayer    TEST_POINT         74,7522mm    20,7010mm    0        "Test Point ON"                  74,7522mm  20,7010mm 74,7522mm  20,7010mm 
+P5         "Test Point"    TopLayer    TEST_POINT         86,6394mm    20,7010mm    0        "Test Point ON"                  86,6394mm  20,7010mm 86,6394mm  20,7010mm 
+P4         "Test Point"    TopLayer    TEST_POINT         98,5266mm    20,7010mm    0        "Test Point ON"                  98,5266mm  20,7010mm 98,5266mm  20,7010mm 
+P3         "Test Point"    TopLayer    TEST_POINT         110,4138mm   20,7010mm    0        "Test Point ON"                  110,4138mm 20,7010mm 110,4138mm 20,7010mm 
+P2         "Test Point"    TopLayer    TEST_POINT         122,3010mm   20,7010mm    0        "Test Point ON"                  122,3010mm 20,7010mm 122,3010mm 20,7010mm 
+P1         "Test Point"    TopLayer    TEST_POINT         134,1882mm   20,7010mm    0        "Test Point ON"                  134,1882mm 20,7010mm 134,1882mm 20,7010mm 
+LED_T      150080GS75000   BottomLayer LED_0805           109,3472mm   2,2858mm     360      "LED GREEN CLEAR 0805 SMD"       109,3470mm 2,2860mm  108,3312mm 2,2858mm  
+J2         Main-Conn       BottomLayer S3B-XH-A-1(LF)(SN) 125,5522mm   8,7630mm     180      "CONN HEADER XH SIDE 3POS 2.5MM" 128,0522mm 8,7630mm  128,0522mm 8,7630mm  
+C10        22pF            BottomLayer Cap0805            92,9132mm    11,4300mm    90       "CAP CER 22PF 50V NPO 0805"      92,9132mm  11,4300mm 92,9132mm  10,4140mm 
+C9         22pF            BottomLayer Cap0805            97,2566mm    11,4300mm    90       "CAP CER 22PF 50V NPO 0805"      97,2566mm  11,4300mm 97,2566mm  10,4140mm 
+C8         22pF            BottomLayer Cap0805            101,5492mm   11,4300mm    90       "CAP CER 22PF 50V NPO 0805"      101,5492mm 11,4300mm 101,5492mm 10,4140mm 
+C7         22pF            BottomLayer Cap0805            105,8672mm   11,4300mm    90       "CAP CER 22PF 50V NPO 0805"      105,8672mm 11,4300mm 105,8672mm 10,4140mm 
+C6         22pF            BottomLayer Cap0805            110,1852mm   11,4300mm    90       "CAP CER 22PF 50V NPO 0805"      110,1852mm 11,4300mm 110,1852mm 10,4140mm 
+C5         22pF            BottomLayer Cap0805            114,5032mm   11,4300mm    90       "CAP CER 22PF 50V NPO 0805"      114,5032mm 11,4300mm 114,5032mm 10,4140mm 
+C2x        1uF             BottomLayer Cap0603            113,4364mm   3,0480mm     360      "CAP CER 1UF 25V X5R 0603"       113,4364mm 3,0480mm  112,6744mm 3,0480mm  
+C2         0.1uF           BottomLayer Cap0805            109,3470mm   4,1910mm     360      "CAP CER 0.1UF 50V X7R 0805"     109,3470mm 4,1910mm  108,3310mm 4,1910mm  
+C1x        1uF             TopLayer    Cap0603            127,7112mm   3,7592mm     180      "CAP CER 1UF 25V X5R 0603"       127,7112mm 3,7592mm  128,4732mm 3,7592mm  
+C1         1uF             BottomLayer Cap0603            106,2990mm   1,9050mm     180      "CAP CER 1UF 25V X5R 0603"       106,2990mm 1,9050mm  107,0610mm 1,9050mm  

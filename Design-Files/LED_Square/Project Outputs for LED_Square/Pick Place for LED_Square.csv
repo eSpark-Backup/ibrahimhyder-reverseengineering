@@ -1,0 +1,30 @@
+Altium Designer Pick and Place Locations
+C:\Users\Abc\Desktop\Ibrahim\IbrahimHyder-ReverseEngineering-Eval-Branch\Design-Files\LED_Square\Project Outputs for LED_Square\Pick Place for LED_Square.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/07/21
+Time:       21:37
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"R5","5R1","TopLayer","Res1206","99,8033mm","3,8862mm","270","RES SMD 5.1O ±5% 0.25W 1206","99,8033mm","3,8862mm","99,8033mm","5,1562mm"
+"R4","5R1","TopLayer","Res1206","77,3497mm","3,8862mm","90","RES SMD 5.1O ±5% 0.25W 1206","77,3497mm","3,8862mm","77,3497mm","2,6162mm"
+"R3","5R1","TopLayer","Res1206","61,4239mm","3,8862mm","90","RES SMD 5.1O ±5% 0.25W 1206","61,4239mm","3,8862mm","61,4239mm","2,6162mm"
+"R2","5R1","TopLayer","Res1206","40,3673mm","3,8862mm","90","RES SMD 5.1O ±5% 0.25W 1206","40,3673mm","3,8862mm","40,3673mm","2,6162mm"
+"R1","5R1","TopLayer","Res1206","21,5967mm","3,8862mm","90","RES SMD 5.1O ±5% 0.25W 1206","21,5967mm","3,8862mm","21,5967mm","2,6162mm"
+"LED10","White LED","TopLayer","White_LED","105,9501mm","4,0386mm","360","White 2800K~3100K 2.8V~3.4V SMD,3.5x2.8x0.7mm Light Emitting Diodes (LED) RoHS","105,9501mm","4,0386mm","107,0576mm","4,0386mm"
+"LED9","White LED","TopLayer","White_LED","93,9359mm","4,0386mm","360","White 2800K~3100K 2.8V~3.4V SMD,3.5x2.8x0.7mm Light Emitting Diodes (LED) RoHS","93,9359mm","4,0386mm","95,0434mm","4,0386mm"
+"LED8","White LED","TopLayer","White_LED","70,2377mm","4,0386mm","180","White 2800K~3100K 2.8V~3.4V SMD,3.5x2.8x0.7mm Light Emitting Diodes (LED) RoHS","70,2377mm","4,0386mm","69,1302mm","4,0386mm"
+"LED7","White LED","TopLayer","White_LED","83,0393mm","4,0386mm","180","White 2800K~3100K 2.8V~3.4V SMD,3.5x2.8x0.7mm Light Emitting Diodes (LED) RoHS","83,0393mm","4,0386mm","81,9318mm","4,0386mm"
+"LED6","White LED","TopLayer","White_LED","48,7493mm","4,0386mm","180","White 2800K~3100K 2.8V~3.4V SMD,3.5x2.8x0.7mm Light Emitting Diodes (LED) RoHS","48,7493mm","4,0386mm","47,6418mm","4,0386mm"
+"LED5","White LED","TopLayer","White_LED","57,6647mm","4,0386mm","180","White 2800K~3100K 2.8V~3.4V SMD,3.5x2.8x0.7mm Light Emitting Diodes (LED) RoHS","57,6647mm","4,0386mm","56,5572mm","4,0386mm"
+"LED4","White LED","TopLayer","White_LED","28,9627mm","4,0386mm","180","White 2800K~3100K 2.8V~3.4V SMD,3.5x2.8x0.7mm Light Emitting Diodes (LED) RoHS","28,9627mm","4,0386mm","27,8552mm","4,0386mm"
+"LED3","White LED","TopLayer","White_LED","36,5827mm","4,0386mm","180","White 2800K~3100K 2.8V~3.4V SMD,3.5x2.8x0.7mm Light Emitting Diodes (LED) RoHS","36,5827mm","4,0386mm","35,4752mm","4,0386mm"
+"LED2","White LED","TopLayer","White_LED","8,1093mm","4,0386mm","180","White 2800K~3100K 2.8V~3.4V SMD,3.5x2.8x0.7mm Light Emitting Diodes (LED) RoHS","8,1093mm","4,0386mm","7,0018mm","4,0386mm"
+"LED1","White LED","TopLayer","White_LED","17,7867mm","4,0386mm","180","White 2800K~3100K 2.8V~3.4V SMD,3.5x2.8x0.7mm Light Emitting Diodes (LED) RoHS","17,7867mm","4,0386mm","16,6792mm","4,0386mm"
+"J3","SMD PADS","TopLayer","SMD_PAD","3,3595mm","4,0386mm","270","","3,3595mm","4,0386mm","3,3595mm","5,0546mm"
+"J1","SMD PADS","TopLayer","SMD_PAD","112,0715mm","4,0386mm","270","","112,0715mm","4,0386mm","112,0715mm","5,0546mm"

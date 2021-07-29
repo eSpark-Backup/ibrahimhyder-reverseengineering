@@ -1,0 +1,57 @@
+Altium Designer Pick and Place Locations
+C:\Users\Abc\Desktop\Ibrahim\IbrahimHyder-ReverseEngineering-Eval-Branch\Design-Files\Touch_Board_AB\Project Outputs for Touch_Board_AB\Pick Place for Touch_Board_AB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/07/21
+Time:       21:05
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"C9","0.1uF","BottomLayer","Cap0805","83,2612mm","17,8816mm","270","CAP CER 0.1UF 50V X7R 0805","83,2612mm","17,8816mm","83,2612mm","18,8976mm"
+"C8","0.1uF","BottomLayer","Cap0805","82,3976mm","7,8232mm","90","CAP CER 0.1UF 50V X7R 0805","82,3976mm","7,8232mm","82,3976mm","6,8072mm"
+"R17","10K","BottomLayer","RES_0805","17,8562mm","18,2880mm","90","RES 10K OHM 1% 1/8W 0805","17,8562mm","18,2880mm","17,8562mm","17,2720mm"
+"SW1","TVFU03","TopLayer","TVFU03","119,8890mm","13,0912mm","0","6mm 2 pin smd soft touch long travel silent tact switch","119,8890mm","13,0912mm","116,8890mm","13,0912mm"
+"U2","RH6016D","BottomLayer","SOT-23-6","84,2010mm","12,9032mm","270","SOT23-6 Touch Sensors ROHS","84,2010mm","12,9032mm","83,2510mm","14,2032mm"
+"U1","RH6016D","BottomLayer","SOT-23-6","44,7040mm","12,9032mm","270","SOT23-6 Touch Sensors ROHS","44,7040mm","12,9032mm","43,7540mm","14,2032mm"
+"R16","1K5","BottomLayer","RES_0805","16,1544mm","18,2880mm","90","RES SMD 1K5 0.125W ±5% 0805","16,1544mm","18,2880mm","16,1544mm","17,2720mm"
+"R15","100R","BottomLayer","RES_0805","4,0386mm","13,0810mm","90","Res SMD 100 Ohm 0.10% 1/8W 0805","4,0386mm","13,0810mm","4,0386mm","12,0650mm"
+"R14","1K","BottomLayer","RES_0805","87,6959mm","11,5975mm","180","RES SMD 1K OHM 5% 1/8W 0805","87,6959mm","11,5975mm","88,7119mm","11,5975mm"
+"R13","10K","BottomLayer","RES_0805","85,1408mm","17,8816mm","270","RES 10K OHM 1% 1/8W 0805","85,1408mm","17,8816mm","85,1408mm","18,8976mm"
+"R12","100R","BottomLayer","RES_0805","84,2010mm","7,8232mm","270","Res SMD 100 Ohm 0.10% 1/8W 0805","84,2010mm","7,8232mm","84,2010mm","8,8392mm"
+"R11","100R","BottomLayer","RES_0805","17,5260mm","7,1882mm","180","Res SMD 100 Ohm 0.10% 1/8W 0805","17,5260mm","7,1882mm","18,5420mm","7,1882mm"
+"R10","100R","BottomLayer","RES_0805","17,5260mm","9,1440mm","180","Res SMD 100 Ohm 0.10% 1/8W 0805","17,5260mm","9,1440mm","18,5420mm","9,1440mm"
+"R9","1K","BottomLayer","RES_0805","48,2854mm","11,5824mm","180","RES SMD 1K OHM 5% 1/8W 0805","48,2854mm","11,5824mm","49,3014mm","11,5824mm"
+"R8","100R","BottomLayer","RES_0805","17,5260mm","11,1760mm","180","Res SMD 100 Ohm 0.10% 1/8W 0805","17,5260mm","11,1760mm","18,5420mm","11,1760mm"
+"R7","100R","BottomLayer","RES_0805","17,5260mm","13,1572mm","180","Res SMD 100 Ohm 0.10% 1/8W 0805","17,5260mm","13,1572mm","18,5420mm","13,1572mm"
+"R6","100R","BottomLayer","RES_0805","55,3212mm","14,8082mm","180","Res SMD 100 Ohm 0.10% 1/8W 0805","55,3212mm","14,8082mm","56,3372mm","14,8082mm"
+"R5","100R","BottomLayer","RES_0805","55,3212mm","12,8270mm","180","Res SMD 100 Ohm 0.10% 1/8W 0805","55,3212mm","12,8270mm","56,3372mm","12,8270mm"
+"R4","100R","BottomLayer","RES_0805","55,3212mm","16,8910mm","180","Res SMD 100 Ohm 0.10% 1/8W 0805","55,3212mm","16,8910mm","56,3372mm","16,8910mm"
+"R3","100R","BottomLayer","RES_0805","55,3212mm","10,8458mm","180","Res SMD 100 Ohm 0.10% 1/8W 0805","55,3212mm","10,8458mm","56,3372mm","10,8458mm"
+"R2","10K","BottomLayer","RES_0805","45,6438mm","17,8816mm","270","RES 10K OHM 1% 1/8W 0805","45,6438mm","17,8816mm","45,6438mm","18,8976mm"
+"R1","100R","BottomLayer","RES_0805","44,7040mm","7,8232mm","270","Res SMD 100 Ohm 0.10% 1/8W 0805","44,7040mm","7,8232mm","44,7040mm","8,8392mm"
+"P4","Test Point","BottomLayer","TEST_POINT","90,1446mm","8,4836mm","180","Test Point ON","90,1446mm","8,4836mm","90,1446mm","8,4836mm"
+"P3","Test Point","BottomLayer","TEST_POINT","87,4776mm","18,8976mm","180","Test Point ON","87,4776mm","18,8976mm","87,4776mm","18,8976mm"
+"P2","Test Point","BottomLayer","TEST_POINT","50,5714mm","8,4836mm","180","Test Point ON","50,5714mm","8,4836mm","50,5714mm","8,4836mm"
+"P1","Test Point","BottomLayer","TEST_POINT","48,0822mm","18,8722mm","180","Test Point ON","48,0822mm","18,8722mm","48,0822mm","18,8722mm"
+"LED9","150080GS75000","TopLayer","LED_0805","4,0638mm","13,0812mm","90","LED GREEN CLEAR 0805 SMD","4,0640mm","13,0810mm","4,0638mm","12,0652mm"
+"C7","0.1uF","BottomLayer","Cap0805","43,7388mm","17,8816mm","270","CAP CER 0.1UF 50V X7R 0805","43,7388mm","17,8816mm","43,7388mm","18,8976mm"
+"C6","0.1uF","BottomLayer","Cap0805","42,9006mm","7,8232mm","90","CAP CER 0.1UF 50V X7R 0805","42,9006mm","7,8232mm","42,9006mm","6,8072mm"
+"C4","10uF","BottomLayer","Cap0603","87,6300mm","7,8232mm","270","CAP CER 10UF 25V X5R 0603","87,6300mm","7,8232mm","87,6300mm","8,5852mm"
+"C3","0.1uF","BottomLayer","Cap0805","86,0298mm","7,8232mm","270","CAP CER 0.1UF 50V X7R 0805","86,0298mm","7,8232mm","86,0298mm","8,8392mm"
+"C2","10uF","BottomLayer","Cap0603","48,1076mm","7,8232mm","270","CAP CER 10UF 25V X5R 0603","48,1076mm","7,8232mm","48,1076mm","8,5852mm"
+"Q1","S8050","BottomLayer","sot-23","20,5232mm","18,2880mm","90","NPN 500mA 25V 300mW SOT-23(SOT-23-3) Bipolar Transistors - BJT RoHS","20,5232mm","18,2880mm","19,5232mm","17,3380mm"
+"C5","0.1uF","BottomLayer","Cap0805","119,8626mm","13,0556mm","360","CAP CER 0.1UF 50V X7R 0805","119,8626mm","13,0556mm","118,8466mm","13,0556mm"
+"LED8","150080GS75000","TopLayer","LED_0805","36,4745mm","11,2266mm","240","LED GREEN CLEAR 0805 SMD","36,4744mm","11,2268mm","36,9825mm","12,1065mm"
+"LED7","150080GS75000","TopLayer","LED_0805","31,5216mm","14,5290mm","360","LED GREEN CLEAR 0805 SMD","31,5214mm","14,5288mm","30,5056mm","14,5290mm"
+"LED6","150080GS75000","TopLayer","LED_0805","31,5216mm","17,8310mm","360","LED GREEN CLEAR 0805 SMD","31,5214mm","17,8308mm","30,5056mm","17,8310mm"
+"LED5","150080GS75000","TopLayer","LED_0805","26,7718mm","11,2267mm","300","LED GREEN CLEAR 0805 SMD","26,7716mm","11,2268mm","26,2638mm","12,1066mm"
+"LED4","150080GS75000","TopLayer","LED_0805","68,4786mm","14,5290mm","360","LED GREEN CLEAR 0805 SMD","68,4784mm","14,5288mm","67,4626mm","14,5290mm"
+"LED3","150080GS75000","TopLayer","LED_0805","63,7288mm","11,2267mm","300","LED GREEN CLEAR 0805 SMD","63,7286mm","11,2268mm","63,2208mm","12,1066mm"
+"LED2","150080GS75000","TopLayer","LED_0805","68,4786mm","17,8310mm","360","LED GREEN CLEAR 0805 SMD","68,4784mm","17,8308mm","67,4626mm","17,8310mm"
+"LED1","150080GS75000","TopLayer","LED_0805","73,6347mm","11,2266mm","240","LED GREEN CLEAR 0805 SMD","73,6346mm","11,2268mm","74,1427mm","12,1065mm"
+"J1","B8B-ZR-SM4-TF(LF)(SN)","BottomLayer","B8B-ZR-SM4-TF(LF)(SN)","11,8110mm","13,1292mm","90","Conn Shrouded Header HDR 8 POS 1.5mm Solder ST SMD T/R","11,8110mm","13,1292mm","10,6860mm","7,8792mm"
+"C1","0.1uF","BottomLayer","Cap0805","46,5074mm","7,8232mm","270","CAP CER 0.1UF 50V X7R 0805","46,5074mm","7,8232mm","46,5074mm","8,8392mm"
