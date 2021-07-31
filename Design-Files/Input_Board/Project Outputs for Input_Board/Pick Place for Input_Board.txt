@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+C:\Users\eSpark-37\Documents\GitHub\IbrahimHyder-ReverseEngineering\Design-Files\Input_Board\Project Outputs for Input_Board\Pick Place for Input_Board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       31/07/21
+Time:       20:00
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment            Layer       Footprint          Center-X(mm) Center-Y(mm) Rotation Description                                                            Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+R2         5.1K               BottomLayer Res0603            12,6492mm    -2,4130mm    90       "RES 5.1K OHM 1% 1/10W 0603"                                           12,6492mm -2,4130mm 12,6492mm -3,1750mm 
+R1         5.1K               BottomLayer Res0603            11,4300mm    -2,4130mm    90       "RES 5.1K OHM 1% 1/10W 0603"                                           11,4300mm -2,4130mm 11,4300mm -3,1750mm 
+P6         "Test Point"       TopLayer    TEST_POINT         6,7838mm     4,7940mm     0        "Test Point ON"                                                        6,7838mm  4,7940mm  6,7838mm  4,7940mm  
+P5         "Test Point"       TopLayer    TEST_POINT         12,8798mm    4,7940mm     0        "Test Point ON"                                                        12,8798mm 4,7940mm  12,8798mm 4,7940mm  
+P4         "Test Point"       TopLayer    TEST_POINT         10,8478mm    4,7940mm     0        "Test Point ON"                                                        10,8478mm 4,7940mm  10,8478mm 4,7940mm  
+P3         "Test Point"       TopLayer    TEST_POINT         16,9184mm    4,7940mm     0        "Test Point ON"                                                        16,9184mm 4,7940mm  16,9184mm 4,7940mm  
+P2         "Test Point"       TopLayer    TEST_POINT         8,8158mm     4,7940mm     0        "Test Point ON"                                                        8,8158mm  4,7940mm  8,8158mm  4,7940mm  
+P1         "Test Point"       TopLayer    TEST_POINT         14,8864mm    4,7940mm     0        "Test Point ON"                                                        14,8864mm 4,7940mm  14,8864mm 4,7940mm  
+J3         S2B-PH-K-S(LF)(SN) TopLayer    S2B-PH-K-S(LF)(SN) 20,2110mm    9,9248mm     180      "Conn Shrouded Header (4 Sides) HDR 2 POS 2mm Solder RA Thru-Hole Box" 21,2110mm 9,9248mm  21,2110mm 9,9248mm  
+J2         U262-241N-4BVC16   TopLayer    U262-241N-4BVC16   12,1300mm    -0,5266mm    360      "Receptacle USB - Type C 24 - Sinking board USB Connectors ROHS"       12,1300mm 1,5734mm  9,5050mm  2,2234mm  
+J1         S2B-PH-K-S(LF)(SN) TopLayer    S2B-PH-K-S(LF)(SN) 3,9230mm     9,9248mm     180      "Conn Shrouded Header (4 Sides) HDR 2 POS 2mm Solder RA Thru-Hole Box" 4,9230mm  9,9248mm  4,9230mm  9,9248mm  
