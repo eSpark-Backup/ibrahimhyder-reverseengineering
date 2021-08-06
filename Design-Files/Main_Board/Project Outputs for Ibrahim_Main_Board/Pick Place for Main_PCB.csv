@@ -4,9 +4,9 @@ C:\Users\eSpark-37\Documents\GitHub\IbrahimHyder-ReverseEngineering\Design-Files
 ========================================================================================================================
 File Design Information:
 
-Date:       02/08/21
-Time:       21:05
-Revision:   0c36ac2cf8f00c7b22f68c30bca8947b18edd432
+Date:       06/08/21
+Time:       22:38
+Revision:   75f102479434cb0b80e6cfd2887a9a43b963c60b
 Variant:    No variations
 Units used: mm
 
@@ -16,7 +16,7 @@ Units used: mm
 "J2","SMD PADS","TopLayer","SMD_PAD","-23,0886mm","28,6258mm","90","","-23,0886mm","28,6258mm","-23,0886mm","27,6098mm"
 "U6","PRO-OB-440","TopLayer","PRO-OB-440","-7,5946mm","41,1734mm","90","RF ANT 2.4GHZ STAMPED MET SLD","-7,5946mm","41,1734mm","-12,9446mm","43,0384mm"
 "L16","1.6nH","TopLayer","Ind_0402","-10,7442mm","40,7416mm","270","FIXED IND 1.6NH 660MA 150 MOHM","-10,7442mm","40,7416mm","-10,7442mm","41,2166mm"
-"J1","M40-3010846","TopLayer","M40-3010846","-5,4951mm","4,1840mm","180","CONN HEADER SMD 8POS 1MM","-5,4951mm","4,1840mm","-1,9951mm","5,4465mm"
+"J1","B8B-ZR-SM4-TF(LF)(SN)","TopLayer","B8B-ZR-SM4-TF(LF)(SN)","-7,9604mm","7,4602mm","360","Conn Shrouded Header HDR 8 POS 1.5mm Solder ST SMD T/R","-7,9604mm","7,4602mm","-13,2104mm","6,3352mm"
 "C34","100uF","TopLayer","RVT1A101M0505","25,2389mm","36,0102mm","180","100uF ±20% 10V 5mm 5.4mm 2000hrs 105? -45?~+105? SMD,5x5.4mm Aluminum Electrolytic Capacitors - SMD RoHS","25,2389mm","36,0102mm","27,4389mm","36,0102mm"
 "C32","20pF","TopLayer","Cap0805","-18,7285mm","18,0778mm","90","CAP CER 20PF 50V C0G/NP0 0805","-18,7285mm","18,0778mm","-18,7285mm","17,0618mm"
 "C31","20pF","TopLayer","Cap0805","-18,5761mm","28,8982mm","270","CAP CER 20PF 50V C0G/NP0 0805","-18,5761mm","28,8982mm","-18,5761mm","29,9142mm"
