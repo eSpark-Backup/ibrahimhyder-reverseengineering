@@ -1,11 +1,9 @@
-Output: Generates pick and place files
-Type  : Pick Place
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of Project [Input_Board.PrjPcb]
-   Generated File[Pick Place for Input_Board.txt]
-   Generated File[Pick Place for Input_Board.csv]
 
 
-Files Generated   : 2
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 8:00:59 PM On 7/31/2021
+Finished Output Generation At 9:42:42 PM On 8/11/2021
